@@ -6,5 +6,10 @@ img{
   height: 300px;
   width: 500px;
   float: left;
+  margin-left: 33%;
+
+}
+.margin{
   margin-left: 40px;
+  margin right: 40px;
 }
