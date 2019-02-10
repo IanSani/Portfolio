@@ -1,9 +1,9 @@
 h1{
   text-align: center;
-  color: light-blue;
+  color: orange;
 }
 img{
-  height: 350px;
+  height: 410px;
   width: 600px;
   float: left;
 
@@ -19,4 +19,8 @@ text-align: center;
   width: 50%;
   float: right;
   background-color: gray;
+  margin-top: -10px;
+}
+body{
+  background-color: green;
 }
