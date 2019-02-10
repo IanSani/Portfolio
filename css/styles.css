@@ -3,21 +3,20 @@ h1{
   color: light-blue;
 }
 img{
-  height: 250px;
-  width: 400px;
+  height: 350px;
+  width: 600px;
   float: left;
-  margin-left: 33%;
 
 }
 .margin{
   margin-left: 40px;
   margin right: 40px;
 }
-.image-with-text{
-  text-align: justify;
-  width: [width of img];
+h2{
+text-align: center;
 }
-.image-with-text{
-  display: block;
-  margin: 0 auto;
+.sidebar{
+  width: 50%;
+  float: right;
+  background-color: gray;
 }
