@@ -3,8 +3,8 @@ h1{
   color: light-blue;
 }
 img{
-  height: 300px;
-  width: 500px;
+  height: 250px;
+  width: 400px;
   float: left;
   margin-left: 33%;
 
@@ -12,4 +12,12 @@ img{
 .margin{
   margin-left: 40px;
   margin right: 40px;
+}
+.image-with-text{
+  text-align: justify;
+  width: [width of img];
+}
+.image-with-text{
+  display: block;
+  margin: 0 auto;
 }
